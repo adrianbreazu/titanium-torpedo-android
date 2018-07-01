@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="float_margin">16dp</dimen>
+    <dimen name="header_text">20dp</dimen>
+    <dimen name="header_padding">10dp</dimen>
+    <dimen name="spacing">40dp</dimen>
+    <dimen name="no_space">0dp</dimen>
+</resources>

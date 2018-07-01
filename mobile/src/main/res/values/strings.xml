@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">titanium-torpedo-android</string>
+    <string name="app_name">My Home Automation</string>
+    <string name="title_activity_main">Dashboard</string>
+    <string name="title_activity_sensors">Sensors</string>
+    <string name="title_activity_actuators">Actuators</string>
+    <string name="header_sprinkler_control">Sprinkler control</string>
 </resources>
